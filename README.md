@@ -84,7 +84,7 @@
 
 pip install -r requirements.txt
 
-
+```
 
 \### 2. ダミーデータの生成（動作確認用）
 
@@ -98,7 +98,7 @@ pip install -r requirements.txt
 
 python make\_dummy\_csv.py
 
-
+```
 
 
 
@@ -114,17 +114,17 @@ python main.py --input input/sample.csv
 
 
 
-
+```
 
 オプション指定例：
 
-
+```bash
 
 python main.py --input input/sample.csv --skip\_sec 60 --min\_total 1.0
 
 
 
-
+```
 
 --skip\_sec : 評価開始までの除外時間（秒）
 
