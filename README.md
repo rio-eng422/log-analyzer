@@ -138,6 +138,8 @@ python main.py --input input/sample.csv --skip\_sec 60 --min\_total 1.0
 
 解析結果は output/ フォルダに出力されます。
 
+※ `assets/` フォルダには、ダミーデータから生成した出力例を掲載しています。
+
 
 
 summary.csv
