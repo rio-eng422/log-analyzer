@@ -1,0 +1,11 @@
+﻿# 実データ・出力物は公開しない
+input/real*.csv
+output/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS/Editor
+.DS_Store
+.vscode/
