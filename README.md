@@ -84,7 +84,7 @@
 
 pip install -r requirements.txt
 
-2\. ダミーデータの生成（動作確認用）
+\### 2. ダミーデータの生成（動作確認用）
 
 
 
@@ -102,7 +102,7 @@ python make\_dummy\_csv.py
 
 input/sample.csv が生成されます。
 
-3\. 解析の実行
+\### 3. 解析の実行
 
 python main.py --input input/sample.csv
 
